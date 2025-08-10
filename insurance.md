@@ -1,5 +1,5 @@
 Abstract
-The traditional insurance landscape in Kenya — and much of Africa — remains inaccessible, misunderstood, and misaligned with the economic realities of everyday people. Annual lump-sum premiums, institutional distrust, and complex claims processes make insurance feel more like a punishment than protection. KAI introduces a decentralized, AI-governed solution that addresses these structural barriers.
+The traditional insurance landscape in Kenya — and much of Africa — remains inaccessible, misunderstood, and misaligned with the economic realities of everyday people. Annual lump-sum premiums, institutional distrust, and complex claims processes make insurance feel more like a punishment than protection. KAI introduces a decentralized, AI-governed solution that addresses these structural barriers.100% premium-covered DeFi insurance pool.
 
 KAI Good Samaritan Insurance Pools are not insurance products — they are public-good DeFi vaults designed to fund access to existing insurance services (e.g., Equity Bancassurance, NHIF, APA, Britam), while giving users diversified exposure to sound financial assets like BTC, CORE, and infrastructure bonds. The model is built on trust-minimized agreements, annual lock-up pools, and agentic AI oversight, empowering users to earn and protect at the same time.
 
@@ -117,5 +117,6 @@ In a broken system, we must ask a better question — not “Why insurance?” b
 Why not stake instead of pay?
 Why not use math instead of middlemen?
 Why not protect each other — and grow together?
+
 
 The KAI Good Samaritan Insurance Pool is a DeFi-native public good, built not just for Web3 users — but for every Kenyan who has ever had to choose between care and cost. This is protection, powered by purpose.
