@@ -1,4 +1,4 @@
-"# KAI-CHAIN" 
+
 # 🌍 KAI Protocol  
 **DeFi-Powered Financial Infrastructure for Africa's Economic Revolution**
 
