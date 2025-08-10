@@ -171,7 +171,7 @@ A next-generation, algorithmic DeFi vault offering both stable savings and high-
 - **Goal**: Monetize digital culture and empower Africa's creative economy.  
 
 ### **NFT DeFi Integration**
-- **NFT-Backed Loans**: Borrow against high-value NFTs without selling.  
+- **NFT-Backed Loans**: Borrow against high-value NFTs in CORE-KAI CHAIN without selling.  
 - **Fractional Ownership**: Shared access to investment-grade NFTs.  
 - **Royalty Yield Farming**: Deploy NFT royalties to passive earning strategies.  
 - **Liquidity Mining**: Incentivize market depth in NFT marketplaces.  
@@ -321,5 +321,6 @@ This is not incremental improvement—this is the complete reimagining of financ
 
 
 *Join the DeFi revolution. Join KAI.*
+
 
 
