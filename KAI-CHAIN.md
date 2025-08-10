@@ -160,7 +160,7 @@ A next-generation, algorithmic DeFi vault offering both stable savings and high-
 
 ---
 
-## ✅ 3. Social DeFi & Creator Economy
+## ✅ 2. Social DeFi & Creator Economy
 
 ### **GAMI Social Yield Farming**
 - **Engagement Mining**: Earn GAMI rewards through verified social activity.  
@@ -177,7 +177,7 @@ A next-generation, algorithmic DeFi vault offering both stable savings and high-
 - **Liquidity Mining**: Incentivize market depth in NFT marketplaces.  
 - **Goal**: Make NFTs a productive financial asset for African creators and collectors.  
 
-# ✅ 4. Prediction Utility and Gas
+# ✅ 3. Prediction Utility and Gas
 
 ## **KAI CENTS (Core-Pegged Utility Token)**
 
@@ -230,7 +230,7 @@ KAI CENTS is a utility token designed for gas payments, micro-transactions, and 
 
 ---
 
-## ✅ 5. Automated DeFi Optimization Layer
+## ✅ 4. Automated DeFi Optimization Layer
 
 ### **KAI Auto-Yield Optimizer**
 - **AI Automation**: DeFi strategies auto-executed across 20+ protocols.  
@@ -321,4 +321,5 @@ This is not incremental improvement—this is the complete reimagining of financ
 
 
 *Join the DeFi revolution. Join KAI.*
+
 
