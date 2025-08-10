@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-KAI (Kenya AI) employs a sophisticated pool-based DeFi architecture combined with intelligent Automated Market Makers (AMMs) to democratize access to Bitcoin, CORE, and advanced DeFi strategies across Africa. This document outlines how KAI strategically deploys liquidity pools, cross-token mechanics, and AI-powered AMMs to achieve its core mission: creating inflation-resistant wealth building systems where African communities can earn 12-48% APY while maintaining full asset custody.
+KAI  employs a sophisticated pool-based DeFi architecture combined with intelligent Automated Market Makers (AMMs) to democratize access to Bitcoin, CORE, and advanced DeFi strategies across Africa. This document outlines how KAI strategically deploys liquidity pools, cross-token mechanics, and AI-powered AMMs to achieve its core mission: creating inflation-resistant wealth building systems where African communities can earn 12-48% APY while maintaining full asset custody.
 
 **Core Innovation**: KAI pools don't just provide DeFi liquidity—they create **wealth multiplication mechanisms** where individual investments, social engagement, SME financing, and community governance reinforce each other through intelligent token distribution and automated market dynamics optimized for African economic realities.
 
