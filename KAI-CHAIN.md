@@ -211,7 +211,7 @@ KAI CENTS is a utility token designed for gas payments, micro-transactions, and 
 
 ---
 
-## ✅ 4. SME DeFi Banking
+## ✅  SME DeFi Banking
 
 ### **Tokenized Asset Lending Protocol**
 - **Asset Tokenization**: Convert receivables, inventory, and land into on-chain collateral.  
@@ -318,5 +318,6 @@ KAI doesn't just offer better financial products—we provide access to the most
 This is not incremental improvement—this is the complete reimagining of finance for Africa's digital future, powered by the most sophisticated DeFi protocols available anywhere in the world.
 
 ---
+
 
 *Join the DeFi revolution. Join KAI.*
