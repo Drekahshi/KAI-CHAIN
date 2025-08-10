@@ -111,7 +111,7 @@ A tokenized, yield-bearing bond product designed to give African users secure ex
 - **Claims Automation**: Instant, trustless payouts with zk and AI verification.  
 - **Dual Returns**: Active coverage + APY on premium deposits.  
 - **Expected APY**: 18–30% while maintaining liquidity for claims.  
-- **Goal**: Provide universal, low-cost insurance funded by yield, not high premiums.  
+- **Goal**: 100% premium-covered DeFi insurance pool coverage.  
 
 
 ## **KAI MMF (Money Market Fund Vault)**
@@ -321,3 +321,4 @@ This is not incremental improvement—this is the complete reimagining of financ
 
 
 *Join the DeFi revolution. Join KAI.*
+
