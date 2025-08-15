@@ -116,3 +116,79 @@ This repository contains:
 ```bash
 git clone https://github.com/Drekahshi/KAI-CHAIN-Dapp-.git
 
+
+# 📚 KAI CHAIN Documentation Guide
+
+This guide will help you navigate the documentation files in the repository to understand the KAI CHAIN ecosystem in a structured way.
+
+---
+
+## 📄 How to Read the Documentation
+
+To fully grasp KAI CHAIN, follow this reading order:
+
+1. **[`whitepaper.md`](whitepaper.md)**  
+   Overview of KAI CHAIN’s mission, architecture, and how it addresses Africa’s economic and financial challenges.
+
+2. **[`tokenomics.md`](tokenomics.md)**  
+   Detailed explanation of KAI CHAIN’s token suite, supply control, utilities, and governance mechanisms.
+
+3. **[`kaipool.md`](kaipool.md)**  
+   Information on KAI liquidity pools, staking APY, yield farming, and reward mechanics.
+
+4. **[`socialfi.md`](socialfi.md)**  
+   The SocialFi layer — community-driven incentives, GAMI token use cases, and social engagement rewards.
+
+5. **[`insurance.md`](insurance.md)**  
+   The decentralized insurance protocol, AI-powered claim verification, and user coverage models.
+
+6. **[`trust.md`](trust.md)**  
+   KAI trust fund model, inheritance rules, multi-sig trustee structure, and AI guardianship functions.
+
+💡 **Tip:** Start with `whitepaper.md` for context, then `tokenomics.md`, followed by the specific product docs in any order.
+
+---
+
+## 🔮 Future Roadmap
+
+KAI CHAIN is designed for continuous evolution.  
+Here’s what’s planned for the upcoming development cycles:
+
+### **Q4 2025**
+- Deploy production smart contracts on the CORE mainnet.
+- Implement cross-chain bridging between CORE, Hedera, and Ethereum.
+- Release mobile-first progressive web app (PWA) with USSD integration.
+
+### **Q1 2026**
+- Launch **KAI Trust Pools** with programmable inheritance.
+- Introduce **KAI AI Guardian** for automated compliance, risk scoring, and education.
+- Begin pilot programs in rural Kenya for offline onboarding.
+
+### **Q2 2026**
+- Integrate **ZK-proof privacy layer** for transactions and identity.
+- Add tokenized infrastructure bond marketplace.
+- Start governance voting for major protocol changes.
+
+### **Q3 2026**
+- Expand to additional African markets.
+- Launch **NFT-based heritage preservation program**.
+- Roll out KAI stablecoin adoption campaigns in SME networks.
+
+---
+
+## 🎁 Community Airdrops for Adoption
+
+KAI CHAIN will run **community airdrop campaigns** to drive early adoption and reward participation.  
+Key strategies include:
+- **Onboarding Rewards** — Distributing small amounts of KAI ecosystem tokens to new verified wallets.
+- **Social Engagement Bonuses** — Rewarding users who share, create content, or invite others to join.
+- **Activity-Based Drops** — Airdrops for staking, liquidity provision, or interacting with KAI DApps.
+- **Impact Incentives** — Tokens for participating in conservation, cultural preservation, and social finance programs.
+
+📌 Airdrop allocation will be **governance-approved** and designed to encourage long-term ecosystem use rather than quick sell-offs.
+
+---
+
+📌 *This roadmap is subject to community governance decisions and may evolve based on ecosystem needs.*
+
+
