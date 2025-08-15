@@ -83,3 +83,36 @@ All tokens have **equal governance rights** and participate in liquidity mining.
 
 ---
 
+
+
+# 🌐 KAI CHAIN DApp
+
+KAI CHAIN is a decentralized application (DApp) built to provide blockchain-powered financial tools and services.  
+You can run it **locally** from the source code or access the **live version** online.
+
+---
+
+## 🚀 Live Website
+
+You can explore the deployed version here:  
+🔗 **[https://kaichaindapp.netlify.app/](https://kaichaindapp.netlify.app/)**
+
+---
+
+## 📦 Repository
+
+Source code is available here:  
+🔗 **[https://github.com/Drekahshi/KAI-CHAIN-Dapp-.git](https://github.com/Drekahshi/KAI-CHAIN-Dapp-.git)**
+
+This repository contains:
+- HTML, CSS, and JavaScript files for the DApp frontend.
+- Assets and configuration for local testing.
+
+---
+
+## 💻 Running Locally
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Drekahshi/KAI-CHAIN-Dapp-.git
+
