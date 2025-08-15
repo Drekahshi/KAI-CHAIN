@@ -75,7 +75,7 @@ All tokens have **equal governance rights** and participate in liquidity mining.
 
 ## 🛠 Technical Highlights
 - **Blockchain**: CORE DAO (BTC + EVM compatibility)
-- **Smart Contracts**: Solidity + Python integrations
+- **Smart Contracts**: Solidity +  JS and Python integrations
 - **Security**: ZK-proofs, multi-sig, AI-powered risk scoring
 - **Interoperability**: Starting with Hedera, expanding to multi-chain
 - **Offline Support**: USSD + minimal internet transactions
